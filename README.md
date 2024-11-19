@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasminekingxx
+- 👋 Hi, I’m jasmine
 - 👀 I’m interested in atmospheric science 
 - 🌱 I’m currently studying climate science and doing my thesis
 - 💞️ I’m looking to collaborate on climate dataset processing 
